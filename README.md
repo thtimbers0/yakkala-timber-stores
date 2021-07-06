@@ -1,1 +1,1 @@
-# yakkala-timber-stores
+# Fitness center static site template
