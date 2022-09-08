@@ -1,1 +1,1 @@
-# yakkala timber merchant
+# Fitness center static site template
